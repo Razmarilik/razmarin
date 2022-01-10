@@ -45,14 +45,15 @@
     "uniqCompNum": 0,
     "versionPublish": "5.5.7",
     "favicon": false,
-    "mbrsiteDomain": "zri26g5eal",
+    "mbrsiteDomain": "bcrosb39aq",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
