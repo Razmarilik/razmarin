@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "googleforms.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -47,9 +47,9 @@
       }
     ],
     "uniqCompNum": 15,
-    "versionPublish": "5.9.18",
+    "versionPublish": "5.5.8",
     "favicon": "@PROJECT_PATH@/assets/images/-2.jpg",
-    "mbrsiteDomain": "nwbvn1inqg",
+    "mbrsiteDomain": "v9wdjgi0sp",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -57,9 +57,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png",
-    "usedWebp": true,
-    "publishChangesOnly": true
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
